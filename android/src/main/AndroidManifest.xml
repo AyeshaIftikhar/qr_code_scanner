@@ -1,4 +1,8 @@
 <manifest package="net.touchcapture.qr.flutterqr"
-    xmlns:tools="http://schemas.android.com/tools">
+  xmlns:tools="http://schemas.android.com/tools">
   <uses-sdk tools:overrideLibrary="com.google.zxing.client.android" />
+
+  <!-- <meta-data
+    android:name="flutterEmbedding"
+    android:value="2" /> -->
 </manifest>
